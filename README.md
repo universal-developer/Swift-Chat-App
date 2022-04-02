@@ -2,16 +2,15 @@
 
 <h2>Screens: </h2>
 
-<img src="images/1st.png" height="350px"/><img src="images/2nd.png" height="350px"/><img src="images/3rd.PNG" height="350px"/>
+<img src="images/1st.png" height="475px"/>
 
 <h2>Usage: </h2>
 
 
 ```bash
 
-git clone https://github.com/universal-developer/flutter_nike_store_app.git
-
-xed flutter_nike_store_app
+git clone https://github.com/universal-developer/Swift-Chat-App
+xed Swift-Chat-App
 
 ```
 
